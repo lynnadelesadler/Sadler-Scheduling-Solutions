@@ -10,7 +10,7 @@ This Work Day Scheduler is a simple calendar application that allows a user to s
 
 The Work Day Scheduler webpage can be accessed at the following URL...
 
-
+https://lynnadelesadler.github.io/Sadler-Scheduling-Solutions/
 
 The URL of the GitHub repository ...
 
@@ -56,9 +56,9 @@ _Here you will see a demonstration on how the Work Day Scheduler webpage works._
 
 ![Homepage GIF](./Assets/Images/GIF.gif)
 
-_In the begining of the demonstration the time is 12:59:48 representing the present timeblock to be 12PM. This is a demonstration of the 12pm timeblock turning from present (red) to past (grey). The 1pm timeblock will turn from future (green) to present (red)._
+_In the beginning of the demonstration the time is 12:59:48 representing the present timeblock to be 12PM. This is a demonstration of the 12pm timeblock turning from present (red) to past (grey). The 1pm timeblock will turn from future (green) to present (red)._
 
-_You will also be shown a new event typed into the 11AM timeblock. When the save button is clicked a message will show it was saved to local storage.  _
+_You will also be shown a new event typed into the 11AM timeblock. When the save button is clicked a message will show it was saved to local storage._
 
 ## Support
 
