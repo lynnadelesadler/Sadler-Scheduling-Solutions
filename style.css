@@ -69,3 +69,12 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+#local-storage {
+ justify-content: center;
+ text-align: center;
+ font-style: italic;
+ font-size: larger;
+ border-color: #06aed5; 
+ background-size: 100px;
+}
